@@ -5,6 +5,9 @@
 	<h1>
 		Hello world!  
 	</h1>
-	<P> ${setHeader}. </P>
+	<p>M : ${setDB}</p>
+	<P>V : ${setHeader}. </P>
+	<p>C : ${setVersion}</p>
+	<p>test:  ${testVO}</p>
 </div>
 

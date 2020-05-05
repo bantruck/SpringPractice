@@ -16,7 +16,7 @@
     <definition name=".root" template="/WEB-INF/views/layout/baseLayout.jsp">
         <put-attribute name="title" value="" />
         <put-attribute name="header" value="/WEB-INF/views/common/header.jsp" />
-        <put-attribute name="menu" value="/WEB-INF/views/common/menu.jsp" />        
+        <!-- put-attribute name="menu" value="/WEB-INF/views/common/menu.jsp" -->        
         <put-attribute name="footer" value="/WEB-INF/views/common/footer.jsp" />
     </definition>
     
